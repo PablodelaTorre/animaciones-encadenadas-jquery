@@ -1,0 +1,10 @@
+.pelota {
+    display: none;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 10rem;
+    background-color: black;
+    margin-top: 1rem;
+    left: 0;
+    
+}
